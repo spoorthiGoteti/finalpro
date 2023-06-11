@@ -26,3 +26,18 @@ https://kind-ground-0cedd2710.3.azurestaticapps.net
 
 # Azure Bot QnA maker / FAQ Bot
 ![bot1](https://github.com/spoorthiGoteti/finalpro/assets/128583755/05bc36d5-0254-461e-b6e0-a2cbdae89eb3)
+
+# Azure
+# Screenshots
+# Static web App
+![az sw](https://github.com/spoorthiGoteti/finalpro/assets/128583755/65c01b76-ae84-4073-8caf-589ce3b84899)
+![sw 2](https://github.com/spoorthiGoteti/finalpro/assets/128583755/7d0a535f-a1a9-417a-bb5e-19c872fd37f0)
+
+# QnA Bot 
+![az bot](https://github.com/spoorthiGoteti/finalpro/assets/128583755/ae7caa7a-8129-448c-a6bf-58c762d1c261)
+
+# Resource Group
+![rg1](https://github.com/spoorthiGoteti/finalpro/assets/128583755/bfb19101-389f-4d48-aed7-0ac62c338b2f)
+
+
+
